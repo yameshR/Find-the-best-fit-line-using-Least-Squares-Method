@@ -24,9 +24,6 @@ Developed by:
 RegisterNumber:212222220059  
 */
 
-## KAVINRAJA.D
-## 212222240047
-
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
